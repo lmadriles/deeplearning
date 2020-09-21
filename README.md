@@ -1,6 +1,6 @@
 # deeplearning
 
-Architecture of some algorithms of deep learning from scratch using python and some of its libraries. 
+Architecture of some algorithms of deep learning from scratch using python and some of its libraries. Knowledge gathered in the Andrew Ng's course, which I recommend.
 
 ## Getting Started
 
